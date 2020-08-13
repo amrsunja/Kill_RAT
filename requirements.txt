@@ -1,0 +1,7 @@
+telebot
+subprocess
+smtplib
+ctypes
+requests
+pathlib
+socket
